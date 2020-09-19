@@ -1,5 +1,3 @@
 # pratica_git_flow
 
-# Prueba
-
-Practica de git flow
+Esta es la rama development
