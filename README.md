@@ -1,3 +1,3 @@
 # pratica_git_flow
 
-Probando
+Practica de git flow
